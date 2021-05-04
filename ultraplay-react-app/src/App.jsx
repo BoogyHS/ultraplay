@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 
-import './App.css';
+import './App.scss';
 
 import Matches from './matches/Matches.jsx';
 import FilteredEvents from './events/FilteredEvents.jsx';

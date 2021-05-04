@@ -1,6 +1,6 @@
 import React from 'react';
 
-import styles from './style.module.css'
+import styles from './style.module.scss'
 
 function MatchOdds(props) {
     const oddsCount = props.match.Bet.Odd.length;

@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 
 //styles
-import styles from './style.module.css';
+import styles from './style.module.scss';
 
 //services
 import matchesService from '../services/loadMatches';
